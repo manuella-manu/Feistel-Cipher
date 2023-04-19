@@ -1,0 +1,54 @@
+explication code 
+"Le code fourni est un programme Python qui implémente l'algorithme de chiffrement de Feistel. Il définit différentes fonctions pour la manipulation du texte clair, du texte chiffré et des clés de chiffrement, ainsi que pour les opérations de permutation, de décalage et de logique binaire nécessaires à l'algorithme. La fonction principale "main()" permet à l'utilisateur de spécifier les paramètres d'entrée (clé de chiffrement, fonction de permutation, ordres de décalage, etc.) et de chiffrer ou déchiffrer une valeur donnée en entrée en utilisant l'algorithme de chiffrement de Feistel."
+
+comment compiler le code :
+
+Ouvrir un terminal ou un invite de commande.
+
+
+
+Assurez-vous que Python est installé sur votre système en tapant la commande suivante :
+
+
+
+
+python --version
+
+
+Si Python est installé, la version sera affichée. Sinon, installez Python depuis le site officiel (https://www.python.org/downloads/).
+
+
+
+Téléchargez le fichier contenant le programme Python qui implémente l'algorithme de chiffrement de Feistel.
+
+
+
+Ouvrez le fichier Python dans votre éditeur de texte ou votre environnement de développement Python préféré.
+
+
+
+Modifiez le code selon vos besoins. Vous pouvez notamment spécifier les paramètres d'entrée (clé de chiffrement, fonction de permutation, ordres de décalage, etc.) dans la fonction principale "main()".
+
+
+
+Enregistrez le fichier modifié.
+
+
+
+Compilez le code en tapant la commande suivante dans votre terminal ou votre invite de commande :
+
+
+
+
+python nom_du_fichier.py
+```\n\n9. Si le code a été compilé avec succès, vous pourrez maintenant exécuter le programme en tapant la commande suivante :
+
+python nom_du_fichier.py
+
+
+```
+
+
+
+Suivez les instructions de l'interface utilisateur pour chiffrer ou déchiffrer une valeur donnée en entrée.
+ 
